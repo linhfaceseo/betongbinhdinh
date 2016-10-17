@@ -277,7 +277,7 @@ margin: 0 0 10px 0;
 float: left;
 }
 .site-title a {
-color: #000;
+color: green;
 border-bottom: none;
 }
 .site-title a:hover {
@@ -701,7 +701,7 @@ overflow:hidden;
 float: left;
 width: 200px;
 height: 290px;
-background: #000;
+background: green;
 padding: 25px;
 color: #555555;
 }
